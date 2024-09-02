@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![snake gif](https://github.com/PhongPahmm/phongpahmm/blob/manual-run-output/docker/github-contribution-grid-snake-dark.svg)
 <!--
 **PhongPahmm/phongpahmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
